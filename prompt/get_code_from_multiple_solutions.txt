@@ -1,0 +1,8 @@
+As an experienced algorithm engineer, you are collaborating with colleagues to address a challenging algorithmic problem. Initially, they conducted an analysis of the problem and public test cases, resulting in two sets of notes. Additionally, they provided several comprehensive solution approaches, each accompanied by a partial code implementation. Naturally, these codes may either be complete or require further refinement.
+
+Your current objective is to select the optimal solution among them, one that not only effectively resolves the problem but can also be easily translated into code:
+
+Thoroughly enhance the code based on their proposed solution and notes, ensuring no details are overlooked. Regardless of the algorithm's complexity, strive to present a comprehensive implementation.
+
+To adhere to the specified format, your output should be a complete function named 'solution.' The function should take and return unique string-type variables as input and output parameters, akin to: "def solution(stdin: str) -> str:". Include only the code relevant to solving the problem within the 'solution' function, covering all variable and function definitions. Ensure that it processes the logic entirely correctly, without generating any unnecessary output.
+

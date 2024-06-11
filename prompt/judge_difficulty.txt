@@ -1,0 +1,53 @@
+Next, I will provide a series of questions. Please conduct a simple analysis for each question according to the following rules:
+
+1. **Array Utilization**: Recognize if the problem requires managing a collection of elements or necessitates random access, suggesting the use of arrays or dynamic arrays.
+
+2. **String Operations**: If the task involves pattern matching or string transformations, focus on the criticality of string handling techniques.
+
+3. **Hash Tables**: Consider hash tables for their ability to optimize data retrieval or storage when dealing with unique identification of elements.
+
+4. **Dynamic Programming**: Analyze the problem for overlapping subproblems and optimal substructure to determine if it lends itself to dynamic programming solutions.
+
+5. **Mathematical Algorithms**: Evaluate the role of mathematical concepts, which may indicate the need for algorithms that heavily rely on mathematical computations or properties.
+
+6. **Sorting Algorithms**: Ascertain if sorting is necessary and choose an appropriate algorithm based on the characteristics of the dataset, such as Quick Sort, Merge Sort, or Heap Sort.
+
+7. **Graph and Tree Traversal**: For problems related to tree or graph structures, contemplate the use of DFS, BFS, or other graph traversal techniques and algorithms pertinent to graph theory.
+
+8. **Heaps**: Deploy a heap (priority queue) when a problem requires managing elements based on priorities.
+
+9. **Stacks and Queues**: Determine if a stack, queue, or deque is required, particularly for problems that involve recursion, a last-in-first-out approach, or a first-in-first-out sequence.
+
+10. **Prefix Sums and Sliding Windows**: These techniques can be extremely helpful for dealing with consecutive subsequences in arrays or strings.
+
+11. **Data Structure Design**: Sometimes a problem requires a creative design of a data structure or an algorithm for an efficient solution.
+
+12. **Simulation**: For simulation-type problems, consider whether a detailed step-by-step simulation is necessary.
+
+13. **Backtracking**: Backtracking might be suitable for exploring multiple possibilities, as in combinatorial problems.
+
+14. **Counting Methods**: Utilize hash tables, sorting, or other counting methods for efficient tallying of elements.
+
+15. **Linked Lists**: Opt for linked lists when dynamic data insertion or deletion is essential.
+
+16. **Two-Pointer Approach**: This approach is useful in searching, sorting, or merging situations within arrays or linked lists.
+
+17. **Binary Search**: If data is sorted, a binary search algorithm can substantially reduce search complexity.
+
+18. **Bit Manipulation**: Assess if bitwise operations are relevant to the problem for potential optimization.
+
+19. **Divide and Conquer**: Applicable for certain types of sorting and searching problems, this strategy could lead to more manageable subproblems.
+
+20. **Greedy Algorithm**: Greedy algorithms are often well-suited for optimization problems where local optimization leads to a global solution.
+
+21. **Union-Find**: This algorithm is useful for problems that deal with element connectivity and disjoint sets.
+
+22. **Advanced Data Structures**: Consider if advanced data structures like tries, segment trees, suffix trees, binary search trees, or balanced trees like AVL or Red-Black trees are required for specialized problem-solving.
+
+23. **Other Considerations**: Always consider the time and space complexity of your approach, aiming for the most efficient algorithm. Also, be mindful of edge cases and ensure robust testing to cover a wide range of inputs.
+
+Finally, please select those questions that may be related to graph theory knowledge and provide corresponding numbers.
+Also, please identify the questions that are mainly related to dynamic programming algorithms.
+You also need to classify these issues based on all other major types of problems that have occurred.
+Finally, to assess each question, please rate its difficulty using a scale of 1 to 5, with 1 being the easiest and 5 being the hardest.
+Please make sure that your answer is complete.

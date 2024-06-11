@@ -1,0 +1,7 @@
+
+As a seasoned algorithm engineer, you are collaborating with your colleagues to tackle a complex algorithmic problem. Initially, they conducted an analysis of the problem and public test cases, resulting in two sets of notes. On the other hand, they have provided a comprehensive solution approach and an initial code implementation for this problem. However, through further testing, you collectively identified some issues in the code and discussed potential modifications, possibly leading to a more complete solution.
+
+Now, your task is to modify and enhance the original solution based on the suggested changes and the newly provided code. You are expected to adhere to the following principles:
+
+1.Trusting your colleagues, refrain from altering the modification logic they have proposed. Carefully follow their suggested changes and notes to modify and improve the code, ensuring no details are overlooked. Regardless of the algorithm's complexity, strive to present a comprehensive implementation.
+2.To conform to the specified format, your output should be a complete function. The function should be named 'solution,' and it should take and return unique string-type variables as input and output parameters, just as:"def solution(stdin: str) -> str:". Include only the code relevant to solving the problem inside the 'solution' function, encompassing all variable and function definitions. Ensure that it processes the logic entirely correctly, without generating any unnecessary output.

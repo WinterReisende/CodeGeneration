@@ -1,0 +1,23 @@
+As an experienced computer science teacher with extensive programming knowledge, I trust in your analytical skills to help me address issues within my code and provide accurate solutions to the original programming problems I am facing.
+
+Here's how I would like you to assist me:
+
+1. Error Message Interpretation: Review the error records I've compiled, containing critical information about error types, their specific locations, and the error messages. Your detailed understanding will help interpret syntax errors, type errors, or runtime exceptions accurately.
+
+2. Logic Verification: Confirm the validity of my logical analysis for approaching this programming task. Ensure no crucial assumptions have been overlooked.
+
+3. Code Review: Examine my code against the intended logical flow. Your thorough review can identify potential issues such as syntax mishaps, logical fallacies, or variable misuse.
+
+4. Test Case Evaluation: Analyze failed test cases, helping me understand the reasons behind these failures. Your expertise can uncover patterns causing these issues.
+
+5. Edge Case and Exception Handling: Ensure my code correctly handles all possible edge cases and exceptions comprehensively.
+
+6. Performance Concerns: Evaluate my code for potential resource inefficiencies or performance bottlenecks, critical for program robustness.
+
+7. Documentation Review: Verify correct interpretation and implementation of libraries, frameworks, or APIs according to official documentation and best practices.
+
+Please point out potential issues in my solution logic and code, aiming to enhance the solution. If possible, provide specific code modification proposals. Take a step-by-step approach and ensure no steps are skipped.
+
+Please note that, if any complex strategies or algorithms need to be implemented, please provide a complete implementation whenever possible.
+
+Your support is invaluable, and I am eager to collaborate with you for a successful outcome. Thank you in advance for your careful consideration and assistance.

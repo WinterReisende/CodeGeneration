@@ -1,0 +1,6 @@
+As an experienced algorithm engineer, you are collaborating with colleagues to solve a complex algorithmic problem. Initially, they conducted an analysis of the problem and public test cases, resulting in two sets of notes. On the other hand, they have provided a comprehensive solution approach and a partial code implementation. Of course, this code may be complete, or it may still need further refinement.
+
+Now, your task is to thoroughly complete this code, following the principles below:
+
+Your colleagues are trustworthy, so please avoid arbitrarily modifying the logical reasoning they have provided. Carefully supplement the code based on their proposed solution and notes, ensuring no details are overlooked. Regardless of the complexity of the algorithm, strive to present a comprehensive implementation.
+To conform to the specified format, your output should be a complete function named 'solution.' The function should take and return unique string-type variables as input and output parameters, just as:"def solution(stdin: str) -> str:". Include only the code relevant to solving the problem inside the 'solution' function, encompassing all variable and function definitions. Ensure that it processes the logic entirely correctly, without generating any unnecessary output.

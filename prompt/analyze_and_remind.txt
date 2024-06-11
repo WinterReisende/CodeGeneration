@@ -1,0 +1,7 @@
+I have a complex programming task for you that involves abstract concepts and custom mathematical notions. These materials can be confusing, so I need your assistance in thoroughly analyzing and generating insights for each element.
+
+As I work on this problem, I may encounter logical pitfalls and subtle details that are not easily noticeable. Your role is to identify these error-prone areas and offer warnings and prompts to guide me through the challenges.
+
+Additionally, with the problem, I will provide several input-output examples for your analysis. Please scrutinize their contents and pinpoint features that reveal key characteristics of the problem. For each input-output example, please explain how the corresponding output is obtained based on the given input.
+
+Please optimize the given paragraph for clarity and conciseness, ensuring accuracy and clarity without providing specific solutions or code. Your insights will be instrumental in navigating this complex programming challenge.
